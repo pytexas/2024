@@ -1,0 +1,113 @@
+site_name: PyTexas Conference
+site_author: PyTexas Foundation
+#repo_url: https://github.com/pytexas/conference-site
+#repo_name: pytexas/conference-site
+#edit_uri: edit/main/docs/
+theme:
+  name: material
+  logo: assets/images/favicon.png
+  custom_dir: overrides
+  features:
+ #   - content.action.edit
+ #   - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - content.code.select
+    - content.tooltips
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    - toc.integrate
+  palette:
+    primary: black
+    accent: blue
+copyright: Copyright &copy; 2015-2023 - PyTexas Foundation
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.details
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.tilde
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Attend: attend.md
+  - Sponsors Us: sponsors/sponsor-us.md
+  - Speaking: schedule/speaking.md
+  #- Schedule: schedule/index.md
+  #- Talks: schedule/talks.md
+  #- Our Sponsors: our-sponsors.md
+  - FAQ: faq.md
+  
+
+plugins:
+  - search
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/pytexas
+      name: Twitter
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/jNPAbcNukj
+      name: Discord
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/pytexas-foundation
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/c/pytexas
+    - icon: fontawesome/brands/meetup
+      link: https://www.meetup.com/pytexas-virtual-meetup/
+    - icon: fontawesome/brands/github
+      link: https://github.com/pytexas
+
+#extra:
+#  analytics:
+#    provider: google
+#    property: G-885F33V7K6
