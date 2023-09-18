@@ -3,10 +3,6 @@ title: 2024 PyTexas Conference
 template: home.html
 ---
 
-# 2024 PyTexas Conference
+Welcome to PyTexas!
 
-
-![PyTexas Logo](assets/images/pytexas-logo.png){align=right}
-
-We're gonna override this index page somehow
-
+Join us for the largest gathering of Python developers within the great state of Texas.

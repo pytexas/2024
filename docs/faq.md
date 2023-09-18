@@ -2,21 +2,21 @@
 
 ???+ question "What can I do if I can't afford to attend?"
 
-    PyTexas offers a limited number of opportunity grants for community members that
-    would be otherwise unable to attend: [see here for more details](/about/grants).
+    PyTexas offers a limited number of opportunity grants for community members that would be otherwise unable to
+    attend: [see here for more details](about#grants).
 
 ???+ question "Can I get a discount for volunteering or speaking?"
-    We do not currently have the funds to provide discounted or free attendance to volunteers or
-    speakers. Even our organizing team purchases tickets, because all funds are eventually used to
-    better the Texas Python community. For the same reasons, we do not generally pay speakers.
+
+    We do not currently have the funds to provide discounted or free attendance to volunteers or speakers. Even our
+    organizing team purchases tickets, because all funds are eventually used to better the Texas Python community. For
+    the same reasons, we do not generally pay speakers.
 
 ???+ question "How much of my sponsorship or ticket price goes to the conference?"
 
-    The short answer is: as much as is needed. Our goal each year is to put on the best
-    conference we can muster. In the event that we gather more funds from sponsorship or ticket
-    sales than we need for the conference, we simply roll the remainder over to the next year.
-    This helps us build a sustainable offering that Texas Python developers can rely on year
-    after year.
+    The short answer is: as much as is needed. Our goal each year is to put on the best conference we can muster. In the
+    event that we gather more funds from sponsorship or ticket sales than we need for the conference, we simply roll the
+    remainder over to the next year. This helps us build a sustainable offering that Texas Python developers can rely on
+    year after year.
 
     We aspire eventually to use excess funds to support outreach programs, day care for conference
     attendees who are parents, scholarships for underprivileged attendees, and other worthy expenses

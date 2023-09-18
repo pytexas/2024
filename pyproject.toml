@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "conference-site"
+version = "0.1.0"
+description = "The website for the PyTexas Conference"
+authors = ["Your Name <you@example.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "conference_site"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+mkdocs-material = "^9.3.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

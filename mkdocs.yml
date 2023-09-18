@@ -1,44 +1,37 @@
 site_name: PyTexas Conference
 site_author: PyTexas Foundation
-#repo_url: https://github.com/pytexas/conference-site
-#repo_name: pytexas/conference-site
-#edit_uri: edit/main/docs/
+repo_url: https://github.com/pytexas/conference-site
+repo_name: pytexas/conference-site
+edit_uri: edit/main/docs/
+extra_css:
+  - stylesheets/extra.css
 theme:
   name: material
   logo: assets/images/favicon.png
   custom_dir: overrides
+  locale: en
+  logo: assets/images/pytexas-logo.png
+  favicon: assets/images/favicon.png
   features:
- #   - content.action.edit
- #   - content.action.view
-    - content.code.annotate
-    - content.code.copy
-    - content.code.select
-    - content.tooltips
-    - navigation.indexes
-    - navigation.sections
+    - announce.dismiss
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
-    - search.highlight
-    - search.share
-    - search.suggest
+    - navigation.tracking
     - toc.follow
     - toc.integrate
   palette:
-    primary: black
-    accent: blue
+    - scheme: pytx2024_light
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: pytx2024_dark
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
 copyright: Copyright &copy; 2015-2023 - PyTexas Foundation
 
 markdown_extensions:
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.details
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tabbed:
-      alternate_style: true
   - abbr
   - admonition
   - attr_list
@@ -48,38 +41,14 @@ markdown_extensions:
   - toc:
       permalink: true
       toc_depth: 3
-  - pymdownx.betterem:
-      smart_enable: all
-  - pymdownx.caret
   - pymdownx.details
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-      emoji_index: !!python/name:materialx.emoji.twemoji
-  - pymdownx.highlight:
-      anchor_linenums: true
-      line_spans: __span
-      pygments_lang_class: true
-  - pymdownx.inlinehilite
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.tabbed:
-      alternate_style: true
-      slugify: !!python/object/apply:pymdownx.slugs.slugify
-        kwds:
-          case: lower
-  - pymdownx.tilde
 
 nav:
   - Home: index.md
   - About: about.md
   - Attend: attend.md
-  - Sponsors Us: sponsors/sponsor-us.md
-  - Speaking: schedule/speaking.md
+#  - Sponsor Us: sponsors/sponsor-us.md
+#  - Speaking: schedule/speaking.md
   #- Schedule: schedule/index.md
   #- Talks: schedule/talks.md
   #- Our Sponsors: our-sponsors.md
