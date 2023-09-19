@@ -4,10 +4,10 @@
 PyTexas is a single-track conference with a total attendence of ~250 people.
 
 ## Call for proposals
-The PyTexas call for proposals is open. [Submit your talk now](https://pretalx.com/pytexas-2023/):
+The PyTexas call for proposals is open. [Submit your talk now](https://pretalx.com/pytexas-2024/):
 
-* The Call For Proposals (CFP) opens <!--TODO: Add CFP Open Date -->
-* The Call For Proposals (CFP) closes on <!--TODO: Add CFP Close Date -->
+* The Call For Proposals (CFP) opens **October 1, 2023**
+* The Call For Proposals (CFP) closes on **January 10, 2023 at 11:59pm CST**
 
 ## Talks
 Talks must be 25 minutes long, including any optional Q&A.
