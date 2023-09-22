@@ -22,5 +22,6 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
+      - run: git config --global user.name "Mason Egger"
       - run: pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
       - run: mkdocs gh-deploy --force
