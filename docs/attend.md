@@ -111,12 +111,6 @@ addition to those of the local government and venue. International, national,
 regional, and local sources are closely watched and will result in a change of 
 policy if warranted.
 
-### Commitment to Compliance
-PyTexas takes these Health & Safety Guidelines very seriously and will therefore 
-enforce a 3-strike rule. Anyone who violates these guidelines on three separate 
-accounts, such as continuing not to wear a proper mask or disregarding social 
-distancing, is subject to removal from the conference.
-
 **The guidelines implemented for PyTexas 2024 are subject to change based on health
 and safety recommendations at the time of the event. We are committing, however, to
 only make changes in the direction of greater protections.**
