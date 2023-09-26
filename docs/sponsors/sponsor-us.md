@@ -52,7 +52,6 @@ Our attendees' health and safety remain our top priority as we continue to monit
 the state of the pandemic and look to venue, local, state, and CDC guidelines to
 make the best and most informed decisions around onsite safety and requirements.
 
-<!--TODO: Fill in Health and Safety Summary-->
 
 You can view our full [Health and Safety Requirements](attend#health) on our website.
 
