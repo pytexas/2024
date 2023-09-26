@@ -14,7 +14,7 @@ held every year since 2007 (with a few exceptions), making this the 18th year.
 
 ## 2024 Prospectus
 
-[Download the Sponsorship Prospectus](#){: .md-button .email-button--primary}
+[Download the Sponsorship Prospectus](https://drive.google.com/file/d/1q1txXEPwDC79wNBa8x7SkQsbnjviCfAj/view?usp=sharing){: .md-button .email-button--primary}
 
 ## Notable Changes in our Prospectus
 
