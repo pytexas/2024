@@ -76,7 +76,7 @@ make the best and most informed decisions around onsite safety and requirements.
 
 ### Masking and Vaccinations Recommended
 The PyTexas team encourages everyone in attendence to be up to date with their
-Covid Vaccinations. The team also recommends facial coverings when indoors and 
+COVID-19 vaccinations. The team also recommends facial coverings when indoors and 
 unable to social distance.
 
 **Harrassing anyone for their decision regarding masking will be considered
