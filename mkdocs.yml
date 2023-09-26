@@ -35,20 +35,23 @@ markdown_extensions:
   - abbr
   - admonition
   - attr_list
+  - md_in_html
   - def_list
   - footnotes
-  - md_in_html
   - toc:
       permalink: true
       toc_depth: 3
   - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 nav:
   - Home: index.md
   - About: about.md
   - Attend: attend.md
-#  - Sponsor Us: sponsors/sponsor-us.md
-#  - Speaking: schedule/speaking.md
+  - Sponsor Us: sponsors/sponsor-us.md
+  - Speaking: schedule/speaking.md
   #- Schedule: schedule/index.md
   #- Talks: schedule/talks.md
   #- Our Sponsors: our-sponsors.md

@@ -2,7 +2,7 @@
 
 ## Buy Tickets
 
-[Buy your ticket today!](#)
+[Buy your ticket today!](#){: .md-button .email-button--primary}
 
 ## Venue
 
@@ -68,9 +68,53 @@ If the parking garage is full, there are other parking options nearby.
 * [Violet Crown parking garage](https://www.parkme.com/lot/26607/amli-on-2nd-parking-austin-tx)
 * Street parking
 
-## Health and Safety Guidelines
+## 2024 Health and Safety Guidelines
 
-TBD
+Our attendees' health and safety remain our top priority as we continue to monitor 
+the state of the pandemic and look to venue, local, state, and CDC guidelines to
+make the best and most informed decisions around onsite safety and requirements.
+
+### Masking and Vaccinations Recommended
+The PyTexas team encourages everyone in attendence to be up to date with their
+COVID-19 vaccinations. The team also recommends facial coverings when indoors and 
+unable to social distance.
+
+**Harrassing anyone for their decision regarding masking will be considered
+a violation of our [Physical Spaces Code of Conduct](https://github.com/pytexas/code-of-conduct/blob/main/physical-spaces-code-of-conduct.md) and will result in 
+appropriate action.**
+
+### Rapid Testing
+
+We encourage attendees to do a rapid test before traveling and consider testing
+during the event, especially if you will be eating indoors with people. We did look
+into providing free, rapid onsite testing for participants, but it is not feasible 
+(logistically or financially) for an event like ours.
+
+### Attendance
+Individuals should not attend the event if they are COVID-positive, are exhibiting COVID symptoms (as defined by the CDC), or have been exposed, within 7 days prior to the event, to someone who was COVID-positive or showed COVID symptoms.
+
+If you are feeling sick or exhibiting symptoms of COVID-19, or test positive for
+COVID-19, prior to the start of the conference, or on any day of the conference, 
+please contact us at [conference@pytexas.org](mailto:conference@pytexas.org), and we will exchange your ticket type for 
+an online ticket or grant you a refund.
+
+### Travel
+Anyone traveling to the event should read and abide by the CDC's Travel Guidelines 
+for domestic and international travel. We ask that participants respect fellow 
+attendees and do everything possible to ensure an environment that is as safe as 
+possible.
+
+### Monitoring of the Requirements Will Continue
+We've monitored COVID-related news and data since the pandemic started, and we will 
+continue to do so moving forward. We continue to follow all CDC guidelines in 
+addition to those of the local government and venue. International, national, 
+regional, and local sources are closely watched and will result in a change of 
+policy if warranted.
+
+**The guidelines implemented for PyTexas 2024 are subject to change based on health
+and safety recommendations at the time of the event. We are committing, however, to
+only make changes in the direction of greater protections.**
+
 
 ## Grants
 
