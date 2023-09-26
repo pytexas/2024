@@ -95,7 +95,7 @@ Individuals should not attend the event if they are COVID-positive, are exhibiti
 
 If you are feeling sick or exhibiting symptoms of COVID-19, or test positive for
 COVID-19, prior to the start of the conference, or on any day of the conference, 
-please contact us at pycon-reg@python.org, and we will exchange your ticket type for 
+please contact us at [conference@pytexas.org](mailto:conference@pytexas.org), and we will exchange your ticket type for 
 an online ticket or grant you a refund.
 
 ### Travel
