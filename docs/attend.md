@@ -87,7 +87,7 @@ appropriate action.**
 
 We encourage attendees to do a rapid test before traveling and consider testing
 during the event, especially if you will be eating indoors with people. We did look
-into providing free, rapid onsite testing for participants but it is not feasible 
+into providing free, rapid onsite testing for participants, but it is not feasible 
 (logistically or financially) for an event like ours.
 
 ### Attendance
