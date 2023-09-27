@@ -4,7 +4,7 @@ template: home.html
 ---
 
 # Deep in the 💜 of Texas
-## April 19 - 21, 2024
+## April 19 - 21, 2024 in Austin, TX
 
 Join us for the largest gathering of Python developers within the great state of Texas. We'll discuss software development, data science, community, and of course: Python.
 
