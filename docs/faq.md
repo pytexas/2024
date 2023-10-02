@@ -7,9 +7,7 @@
 
 ???+ question "Can I get a discount for volunteering or speaking?"
 
-    We do not currently have the funds to provide discounted or free attendance to volunteers or speakers. Even our
-    organizing team purchases tickets, because all funds are eventually used to better the Texas Python community. For
-    the same reasons, we do not generally pay speakers.
+    Accepted speakers will get a free ticket to the event. 
 
 ???+ question "How much of my sponsorship or ticket price goes to the conference?"
 

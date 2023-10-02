@@ -2,7 +2,7 @@
 
 ## Buy Tickets
 
-[Buy your ticket today!](#){: .md-button .email-button--primary}
+Check back on November 1, 2024 for early bird tickets!
 
 ## Venue
 
