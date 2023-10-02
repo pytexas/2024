@@ -33,7 +33,9 @@ and availability.
 
     ---
 
-    Our [Call for Proposals (CFP)](#) will open soon! Check back!   
+    Our [Call for Proposals (CFP)](#) is open! It will close January 14, 2024 at 23:59 CST.
+
+    [:octicons-arrow-right-24: Submit to our CFP](https://pretalx.com/pytexas-2024/)
 
 -   :fontawesome-solid-scale-balanced:{ .lg .middle} __Code of Conduct__
 
