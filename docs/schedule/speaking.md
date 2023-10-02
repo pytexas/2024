@@ -9,6 +9,8 @@ The PyTexas call for proposals is open. [Submit your talk now](https://pretalx.c
 * The Call For Proposals (CFP) opens **October 1, 2023**
 * The Call For Proposals (CFP) closes on **January 10, 2023 at 11:59pm CST**
 
+[Submit to our CFP](https://pretalx.com/pytexas-2024/){ .md-button .email-button--primary}
+
 ## Talks
 Talks must be 25 minutes long, including any optional Q&A.
 
