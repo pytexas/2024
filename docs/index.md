@@ -26,7 +26,7 @@ and availability.
 
     ---
 
-    Early bird tickets for PyTexas 2024 go on sale October 1, 2023! Check
+    Early bird tickets for PyTexas 2024 go on sale November 1, 2023! Check
     back then and get yours!
 
 -   :fontawesome-solid-microphone-lines:{ .lg .middle} __Attend__
