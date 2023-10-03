@@ -2,7 +2,7 @@
 
 ## Buy Tickets
 
-Check back on November 1, 2024 for early bird tickets!
+Check back on November 1, 2023 for early bird tickets!
 
 ## Venue
 
