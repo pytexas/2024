@@ -2,7 +2,8 @@
 
 ## Buy Tickets
 
-Check back on November 1, 2023 for early bird tickets!
+
+[Purchase PyTexas 2024 Tickets](https://pretix.eu/pytexas/2024/){: .md-button .email-button--primary}
 
 ## Venue
 
