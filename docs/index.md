@@ -19,7 +19,7 @@ and availability.
 
     ---
 
-    PyTexas wouldn't be possible without our sponsors. Check out our [Prospectus](#)
+    PyTexas wouldn't be possible without our sponsors. Check out our [Prospectus](https://drive.google.com/file/d/1q1txXEPwDC79wNBa8x7SkQsbnjviCfAj/view)
     and sponsor PyTexas today.
 
 -   :fontawesome-solid-ticket:{ .lg .middle} __Attend__
