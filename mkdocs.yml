@@ -50,7 +50,8 @@ nav:
   - Attend: attend.md
   - Sponsor Us: sponsors/sponsor-us.md
   - Speaking: schedule/speaking.md
-  #- Schedule: schedule/index.md
+  - Schedule:
+    - Keynote Speakers: schedule/keynotes.md
   #- Talks: schedule/talks.md
   #- Our Sponsors: our-sponsors.md
   - FAQ: faq.md
