@@ -47,12 +47,14 @@ markdown_extensions:
 nav:
   - Home: index.md
   - About: about.md
-  - Attend: attend.md
-  - Sponsor Us: sponsors/sponsor-us.md
+  - Attend: attend.md 
+  - Sponsors: 
+    - sponsors/sponsor-us.md
+    - sponsors/our-sponsors.md
   - Speaking: schedule/speaking.md
   #- Schedule: schedule/index.md
   #- Talks: schedule/talks.md
-  #- Our Sponsors: our-sponsors.md
+  
   - FAQ: faq.md
 plugins:
   - search
