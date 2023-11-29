@@ -52,6 +52,11 @@
     z-index: 1;
 }
 
+.md-nav--secondary .md-nav__title {
+    background: unset;
+    box-shadow: unset;
+}
+
 .md-nav__item .md-nav__link--active,
 .md-nav__item .md-nav__link--active code {
     color: var(--md-primary-fg-color--light);
