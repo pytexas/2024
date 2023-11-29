@@ -1,4 +1,4 @@
-# Sponsors
+# Sponsor Us
 
 The PyTexas Conference is an annual gathering of Pythonistas put on by the PyTexas Foundation. We’re excited to announce
 that we will be returning on April 19 - 21, 2024, to the Austin Central Public Library in Austin, TX. This event is 100%
