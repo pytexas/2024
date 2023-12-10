@@ -131,6 +131,6 @@ Currently we have a limited budget and are evaluating what we can provide. Ticke
 grant, and we are aiming to have some cash to help reimburse travel/lodging.
 
 If you are facing a financial hardship, or would not be able to attend without assistance, please fill out the
-application below. Applications will be approved by Feb. 20<sup>th</sup> 2023.
+application below. Applications will be approved by Feb. 20<sup>th</sup> 2024.
 
 **[Grant Application](https://forms.gle/bx4be6c3PHY8PGcP6)**
