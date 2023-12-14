@@ -53,14 +53,14 @@ the state of the pandemic and look to venue, local, state, and CDC guidelines to
 make the best and most informed decisions around onsite safety and requirements.
 
 
-You can view our full [Health and Safety Requirements](attend#health) on our website.
+You can view our full [Health and Safety Requirements](../../attend#2024-health-and-safety-guidelines) on our website.
 
 ## Addressing the Elephant in the Room
 
 All of our organizers are Texas residents and are all too familiar with the Texas 
 Legislature's continued attacks on certain marginalized communities. PyTexas is
 dedicated to creating a safe and inclusive space for all attendees, and will adhere
-to the guidelines laid out in our [Code of Conduct](about#code-of-conduct).
+to the guidelines laid out in our [Code of Conduct](../../about#code-of-conduct).
 
 ---
 
