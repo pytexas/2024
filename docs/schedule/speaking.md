@@ -45,4 +45,4 @@ Some other ideas might be:
 ## Does PyTexas offer any financial support for speakers?
 PyTexas provides speakers a complimentary ticket to the conference. If you
 require financial support to travel to PyTexas, we do 
-[offer financial support](/attend/grants) to anyone that needs it, regardless of whether they are a speaker or not. 
+[offer financial support](/2024/attend#grants) to anyone that needs it, regardless of whether they are a speaker or not. 
