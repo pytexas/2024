@@ -30,13 +30,11 @@ and availability.
 
     [:octicons-arrow-right-24: Purchase Tickets](https://pretix.eu/pytexas/2024/)
 
--   :fontawesome-solid-microphone-lines:{ .lg .middle} __Attend__
+-   :fontawesome-solid-microphone-lines:{ .lg .middle} __Speak__
 
     ---
 
-    Our [Call for Proposals (CFP)](https://pretalx.com/pytexas-2024/) is open! It will close January 14, 2024 at 23:59 CST.
-
-    [:octicons-arrow-right-24: Submit to our CFP](https://pretalx.com/pytexas-2024/)
+    Our [Call for Proposals (CFP)](https://pretalx.com/pytexas-2024/) has closed! Check back later for our conference schedule.
 
 -   :fontawesome-solid-scale-balanced:{ .lg .middle} __Code of Conduct__
 

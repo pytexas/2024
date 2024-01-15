@@ -18,6 +18,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
+    - toc.integrate
     - toc.follow
   palette:
     - scheme: pytx2024_light
@@ -50,7 +51,6 @@ nav:
   - Sponsors: 
     - sponsors/sponsor-us.md
     - sponsors/our-sponsors.md
-  - Speaking: schedule/speaking.md
   - Schedule:
     - Keynote Speakers: schedule/keynotes.md
   #- Talks: schedule/talks.md
