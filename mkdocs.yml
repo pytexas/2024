@@ -1,5 +1,6 @@
 site_name: PyTexas Conference
 site_author: PyTexas Foundation
+site_url: https://pytexas.org/2024/
 repo_url: https://github.com/pytexas/conference-site
 repo_name: pytexas/conference-site
 edit_uri: edit/main/docs/
