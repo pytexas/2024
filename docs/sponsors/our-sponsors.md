@@ -15,3 +15,5 @@ description: PyTexas Conference 2024 Sponsors
 <br clear=all>
 
 [![PyOhio 2023 Conference Logo](../assets/images/sponsors/pyohio.png){: width="300" align="left"}](https://www.pyohio.org/2023/)
+
+[![Black Python Devs](../assets/images/sponsors/black_python_devs.svg){: width="300" align="left"}](https://blackpythondevs.github.io/)
