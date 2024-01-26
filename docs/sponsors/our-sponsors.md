@@ -9,7 +9,7 @@ description: PyTexas Conference 2024 Sponsors
 
 <br clear=all>
 
-#### Community Sponsors
+## Community Sponsors
 
 [![DevIT US Sponsor Logo](../assets/images/sponsors/devitus-square2.png){: width="200" align="left"}](https://devitjobs.com/jobs/python/all/all)
 
