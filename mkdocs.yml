@@ -50,8 +50,8 @@ nav:
   - About: about.md
   - Attend: attend.md 
   - Sponsors: 
-    - sponsors/sponsor-us.md
     - sponsors/our-sponsors.md
+    - sponsors/sponsor-us.md
   - Schedule:
     - Keynote Speakers: schedule/keynotes.md
   #- Talks: schedule/talks.md
