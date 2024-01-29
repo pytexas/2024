@@ -48,14 +48,15 @@ markdown_extensions:
 nav:
   - Home: index.md
   - About: about.md
-  - Attend: attend.md 
-  - Sponsors: 
+  - Attend: attend.md
+  - Sponsors:
     - sponsors/our-sponsors.md
     - sponsors/sponsor-us.md
   - Schedule:
     - Keynote Speakers: schedule/keynotes.md
+    - Talks: schedule/talks.md
   #- Talks: schedule/talks.md
-  
+
   - FAQ: faq.md
 plugins:
   - search

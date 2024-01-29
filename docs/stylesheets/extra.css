@@ -135,3 +135,24 @@
     border-color: var(--md-accent-fg-color);
     color: var(--md-primary-fg-color);
 }
+.text-small,
+small {
+  font-weight: 100;
+}
+
+.text-small {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+.speakers {
+  align-self: flex-start !important;
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+  border-radius: 0.3125rem;
+  height: auto;
+  margin-right: 1.5rem !important;
+  max-height: 250px;
+  max-width: fit-content;
+  padding: 0.25rem;
+}
+
