@@ -152,3 +152,17 @@ The iteration protocol and generators are Python's power tools. Properly used, t
 _Moshe has been involved in the Linux community since 1998, helping in Linux \"installation parties\". They have been programming Python since 1999, and has contributed to the core Python interpreter. Moshe has been a DevOps/SRE since before those terms existed, caring deeply about software reliability, build reproducibility and other such things. They have worked in companies as small as three people and as big as tens of thousands -- usually some place around where software meets infrastructure._
 
 <br clear=all>
+
+## Always Use Sets!
+
+In this talk, we'll show how to use sets to improve the performance and clarity of our code. We'll even show non-set-like cases that gain enough performance by leveraging sets to make this approach worth some amount of extra complexity.
+
+**Speaker: Andy Fudinger**
+
+![Andy Fundinger Headshot](https://pretalx.com/media/avatars/Portrait_KFnkOSo.jpg){: width="150" align=left}
+
+_Andy Fundinger is a senior engineer at Bloomberg, where he develops Python applications in the Data Gateway Platform team and supports Python developers throughout the firm through the company's Python Guild. Andy has spoken several times at PyGotham, as well as other conferences such as QCon, PyCaribbean, and EuroPython.<br><br>In the past, Andy has worked on private equity and credit risk applications, web
+services, and virtual worlds. Andy holds a master's degree in engineering from
+Stevens Institute of Technology._
+
+<br clear=all>
