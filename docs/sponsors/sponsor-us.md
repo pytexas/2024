@@ -1,3 +1,7 @@
+---
+title: Sponsor Us
+description: Looking to get your company in front of 200+ Python Developers? Sponsor us today!
+---
 # Sponsor Us
 
 The PyTexas Conference is an annual gathering of Pythonistas put on by the PyTexas Foundation. We’re excited to announce

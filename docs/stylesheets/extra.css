@@ -66,6 +66,17 @@
     background-color: var(--md-primary-fg-color) !important;
 }
 
+
+.md-typeset table:not([class]) {
+    background-color: var(--md-default-fg-color);
+    width: 100%;
+}
+
+thead {
+    background-color: var(--md-default-fg-color--dark);
+    color: var(--md-accent-bg-color);
+}
+
 .pytx-container {
     background: linear-gradient(to right, var(--md-primary-fg-color--transparent), var(--md-accent-fg-color--transparent));
     display: flex;
