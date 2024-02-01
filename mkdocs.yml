@@ -54,8 +54,8 @@ nav:
     - sponsors/sponsor-us.md
   - Schedule:
     - Keynote Speakers: schedule/keynotes.md
+    - Tutorials: schedule/tutorials.md
     - Talks: schedule/talks.md
-  #- Talks: schedule/talks.md
 
   - FAQ: faq.md
 plugins:

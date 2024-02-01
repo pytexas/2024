@@ -1,6 +1,6 @@
 ---
 Title: Accepted Talks
-description: Accepted Talks for PyTexas 2024
+description: Accepted Talks for PyTexas 2024.
 ---
 
 # Accepted Talks
@@ -39,7 +39,7 @@ _Hello! I'm Shivani Shetty, a cybersecurity enthusiast driven by an unyielding p
 
 ## System Design on Easy Mode
 
-You know those system design questions you get when interviewing for senior or staff eng roles? I love them. And while I won\u2019t solve them all for you, I will teach you an easy way to solve a large class of them.
+You know those system design questions you get when interviewing for senior or staff eng roles? I love them. And while I won't solve them all for you, I will teach you an easy way to solve a large class of them.
 
 **Speaker: Loren Sands-Ramshaw**
 
@@ -51,13 +51,13 @@ _Loren is a developer relations engineer at Temporal. Previously, they worked on
 
 ## Oh the (Methods) You Can (Make): By Dunder Seuss
 
-You can make many methods <br>Over 100 to be exact <br>That start with two underscores <br>What do you think of that?<br><br>The runtime, it calls these <br>At points A or B <br>To do special magic <br>At runtime, you see.<br><br>You may have seen `__getattr__` or `__init__` <br><br>But `__rfloordiv__`? What\u2019s the point of it?<br><br>Come take a quick tour, your mother won\u2019t mind <br>And hear a talk that\u2019s one-of-a-kind <br>About how Python uses them under-the-hood <br>And how _you_ can use them to write code that's real good
+You can make many methods <br>Over 100 to be exact <br>That start with two underscores <br>What do you think of that?<br><br>The runtime, it calls these <br>At points A or B <br>To do special magic <br>At runtime, you see.<br><br>You may have seen `__getattr__` or `__init__` <br><br>But `__rfloordiv__`? What's the point of it?<br><br>Come take a quick tour, your mother won't mind <br>And hear a talk that's one-of-a-kind <br>About how Python uses them under-the-hood <br>And how _you_ can use them to write code that's real good
 
 **Speaker: Joshua Cannon**
 
 ![Joshua Cannon Headshot](https://pretalx.com/media/avatars/87388c2faa3c4d423c5dd9e436028e4f_lxsOG28.jpg){: width="150" align=left}
 
-_Howdy y'all! Sometimes I'm a Build Engineer and talk your ear off about tools and developer experience. Sometimes I go by \"Dunder Seuss\" and perform \"edutainment\" about Python itself. But mostly I'm just here to have fun and enjoy the company of others._
+_Howdy y'all! Sometimes I'm a Build Engineer and talk your ear off about tools and developer experience. Sometimes I go by "Dunder Seuss" and perform "edutainment" about Python itself. But mostly I'm just here to have fun and enjoy the company of others._
 
 <br clear=all>
 
@@ -87,7 +87,7 @@ _I am a software engineer with +10 years of professional experience building sca
 
 ## ContainerCraft: Mastering Efficient Integration Testing with TestContainers
 
-In the ever-evolving landscape of software development, effective integration testing is important. My talk, titled \"ContainerCraft: Mastering Integration Testing with TestContainers\" delves into the art of efficient integration testing using TestContainers.
+In the ever-evolving landscape of software development, effective integration testing is important. My talk, titled "ContainerCraft: Mastering Integration Testing with TestContainers" delves into the art of efficient integration testing using TestContainers.
 
 **Speaker: Sameer Shukla**
 
@@ -131,7 +131,7 @@ _Nafiul Islam is a Software Engineer, Speaker and Author. With more than a decad
 
 ## Designing a Human-Friendly CLI for API-Driven Infrastructure
 
-As Bloomberg\u2019s infrastructure grows and evolves, the tools we use to manage it are becoming increasingly important. To streamline infrastructure management, our team set out to design a REST API and constituent CLI (Command Line Interface) that would comprise a single interface for both programmatic and human interaction with our infrastructure. Traditionally, building a CLI that is tightly coupled to an API requires maintaining a separate codebase, which is tedious and error-prone. Instead, we designed a CLI that dynamically generates commands based on the OpenAPI JSON documentation. However, since APIs are designed for computer interaction, we designed our API to include the information needed to implement a human-friendly CLI. Leveraging Python, FastAPI, and numerous other open source projects, we built a stable, extensible tool that greatly improves how we interact with our infrastructure.
+As Bloomberg's infrastructure grows and evolves, the tools we use to manage it are becoming increasingly important. To streamline infrastructure management, our team set out to design a REST API and constituent CLI (Command Line Interface) that would comprise a single interface for both programmatic and human interaction with our infrastructure. Traditionally, building a CLI that is tightly coupled to an API requires maintaining a separate codebase, which is tedious and error-prone. Instead, we designed a CLI that dynamically generates commands based on the OpenAPI JSON documentation. However, since APIs are designed for computer interaction, we designed our API to include the information needed to implement a human-friendly CLI. Leveraging Python, FastAPI, and numerous other open source projects, we built a stable, extensible tool that greatly improves how we interact with our infrastructure.
 
 **Speaker: Oliver Rew**
 
@@ -149,7 +149,7 @@ The iteration protocol and generators are Python's power tools. Properly used, t
 
 ![Moshe Zadka Headshot](https://pretalx.com/media/avatars/M48A0550_OFvFoAA.jpg){: width="150" align=left}
 
-_Moshe has been involved in the Linux community since 1998, helping in Linux \"installation parties\". They have been programming Python since 1999, and has contributed to the core Python interpreter. Moshe has been a DevOps/SRE since before those terms existed, caring deeply about software reliability, build reproducibility and other such things. They have worked in companies as small as three people and as big as tens of thousands -- usually some place around where software meets infrastructure._
+_Moshe has been involved in the Linux community since 1998, helping in Linux "installation parties". They have been programming Python since 1999, and has contributed to the core Python interpreter. Moshe has been a DevOps/SRE since before those terms existed, caring deeply about software reliability, build reproducibility and other such things. They have worked in companies as small as three people and as big as tens of thousands -- usually some place around where software meets infrastructure._
 
 <br clear=all>
 
