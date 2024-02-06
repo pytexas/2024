@@ -166,3 +166,38 @@ services, and virtual worlds. Andy holds a master's degree in engineering from
 Stevens Institute of Technology._
 
 <br clear=all>
+
+## Plugging in with pkgutil, importlib, inspect, and a little spit
+
+Sometimes, you want to build a framework where expansion can come via installed python packages and modules. There are third party libraries to handle that, but maybe you don't want something that heavy weight, don't want to handle the burden of security and quality testing releases, or just want to write your own so you know how it works. I'll walk you through how to create a pluggable framework where plugins can be delivered as Python packages. I'll show you some useful standard library packages that you need, some pitfalls along the way, and how to get a working prototype in no time!
+
+**Speaker: Josh Schneider**
+
+![Josh Schenider Headshot](https://pretalx.com/media/avatars/4fd8d11f5cc00e1fa20dc9a596b16088_sFcq8pP.jpg){: width="150" align=left}
+
+_Father of two boys. Test Automation Engineer. Primarily fluent in Python, but
+conversant in C#, Go, VBScript, and others. Huge movie geek._
+
+<br clear=all>
+
+## Working with Audio in Python (feat. Pedalboard)
+
+Python can do (nearly) anything, but using Python to work with audio has always been a complicated and messy affair. In this talk, we'll be going through how digital audio works, how Python can be used to play with audio data, and how a new library - Pedalboard - can help. Pedalboard is a simple, fast, and performant library for doing common audio tasks in Python, including applying effects, using VSTs and audio plugins, and encoding/decoding various audio formats.
+
+**Speaker: Peter Sobot**
+
+![Peter Sobot Headshot](https://pretalx.com/media/avatars/2021-05-18_guOGvNc.PNG){: width="150" align=left}
+
+_Peter is a Staff Machine Learning Engineer at Spotify in New York, where he helps lead their Audio Intelligence Lab - a machine learning research lab dedicated to pushing the state of the art in audio-based machine learning. He's secretly Canadian (howdy neighbour!) and when not hacking on audio software, he plays drums and bass in a handful of bands._
+
+<br clear=all>
+
+## Rest Easy with Jupyrest: Deploy notebooks as web services
+
+Jupyter notebooks are awesome! However, a notebook on its own is not a product or a service. Bridging this gap usually involves a complete rewrite into a web service that leaves behind all the awesome-ness of the notebook. What if we didn't have to do this? That's where Jupyrest comes in! Jupyrest is a library I created to solve this exact problem for my team at Microsoft. In this talk I'll show you how you can turn your Jupyter notebooks into a web service without any modifications to it. Jupyrest is being used at Microsoft by data scientists to deploy hundreds of microservices.
+
+**Speaker: Koushik Krishnan**
+
+![Koushik Krishnan Headshot](https://pretalx.com/media/avatars/1648921791170_znx1qJJ.jpg){: width="150" align=left}
+
+_Hi! My name is Koushik and I am an engineer at Microsoft. I work on distributed database systems and believe it or not, I use a lot of Python to build tools to so. I believe Python can help us make complicated software systems easier to operate and more performant as a result. When I am not coding I like to play disc golf and try speed-running my favorite video games._
