@@ -201,3 +201,15 @@ Jupyter notebooks are awesome! However, a notebook on its own is not a product o
 ![Koushik Krishnan Headshot](https://pretalx.com/media/avatars/1648921791170_znx1qJJ.jpg){: width="150" align=left}
 
 _Hi! My name is Koushik and I am an engineer at Microsoft. I work on distributed database systems and believe it or not, I use a lot of Python to build tools to so. I believe Python can help us make complicated software systems easier to operate and more performant as a result. When I am not coding I like to play disc golf and try speed-running my favorite video games._
+
+## Advanced Tracking with Kalman Filters and Stone Soup
+
+Learn how to implement sophisticated tracking solutions in Python with Kalman filters and the Stone Soup framework. This demo aims to enhance your data analytics and machine learning skills by showcasing an implementation of a tracking algorithm.
+
+** Speaker: Cynthia Ukawu
+
+![Cynthia Ukawu Headshot](https://pretalx.com/media/avatars/IMG_735BECFA0EEC-1_39XWmDQ.jpeg){: width="150" align=left}
+
+_I'm a backend software engineer for a tech company in Washington, DC._
+
+<br clear=all>
