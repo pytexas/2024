@@ -91,6 +91,12 @@ In the ever-evolving landscape of software development, effective integration te
 
 **Speaker: Sameer Shukla**
 
+![Sameer Shukla Headshot](https://pretalx.com/media/avatars/Sam-Image_1s0uxrq.jpeg){: width="150" align=left}
+
+_I'm Sameer Shukla, a dedicated engineer with a rich background spanning 14 years in software design and development. Beyond my role as an engineer, I am an author and researcher. I find joy in continually learning and sharing insights about cutting-edge tools and technologies through my contributions to diverse online learning platforms and esteemed international journals._
+
+<br clear=all>
+
 ## Voice Computing with Python in Jupyter Notebooks
 
 Jupyter Notebook is a popular platform for writing literate programming documents that contain computer code and its output interleaved with prose that describes the code and the output. Recently, it has become possible to use one's voice to interact with Jupyter notebooks. This capability opens access to those with impaired use of their hands. Voice computing also increases the productivity of workers who are tired of typing and increases the productivity of those workers who speak faster than they can type. I split voice computing into three activities: speech-to-text, speech-to-command, and speech-to-code. Several automated speech recognition software packages operate in Jupyter notebooks and support the three activities to a certain degree. I will provide examples of all three activities as they pertain to applications of Python to our research on the molecular structures of proteins and nucleic acids important in medicine. I have developed and shared several software tools at MooersLab on GitHub and Codeberg that facilitate using existing voice computing software in Jupyter.
@@ -161,9 +167,7 @@ In this talk, we'll show how to use sets to improve the performance and clarity 
 
 ![Andy Fundinger Headshot](https://pretalx.com/media/avatars/Portrait_KFnkOSo.jpg){: width="150" align=left}
 
-_Andy Fundinger is a senior engineer at Bloomberg, where he develops Python applications in the Data Gateway Platform team and supports Python developers throughout the firm through the company's Python Guild. Andy has spoken several times at PyGotham, as well as other conferences such as QCon, PyCaribbean, and EuroPython.<br><br>In the past, Andy has worked on private equity and credit risk applications, web
-services, and virtual worlds. Andy holds a master's degree in engineering from
-Stevens Institute of Technology._
+_Andy Fundinger is a senior engineer at Bloomberg, where he develops Python applications in the Data Gateway Platform team and supports Python developers throughout the firm through the company's Python Guild. Andy has spoken several times at PyGotham, as well as other conferences such as QCon, PyCaribbean, and EuroPython.<br><br>In the past, Andy has worked on private equity and credit risk applications, web services, and virtual worlds. Andy holds a master's degree in engineering from Stevens Institute of Technology._
 
 <br clear=all>
 
@@ -175,8 +179,7 @@ Sometimes, you want to build a framework where expansion can come via installed 
 
 ![Josh Schenider Headshot](https://pretalx.com/media/avatars/4fd8d11f5cc00e1fa20dc9a596b16088_sFcq8pP.jpg){: width="150" align=left}
 
-_Father of two boys. Test Automation Engineer. Primarily fluent in Python, but
-conversant in C#, Go, VBScript, and others. Huge movie geek._
+_Father of two boys. Test Automation Engineer. Primarily fluent in Python, but conversant in C#, Go, VBScript, and others. Huge movie geek._
 
 <br clear=all>
 
@@ -201,6 +204,8 @@ Jupyter notebooks are awesome! However, a notebook on its own is not a product o
 ![Koushik Krishnan Headshot](https://pretalx.com/media/avatars/1648921791170_znx1qJJ.jpg){: width="150" align=left}
 
 _Hi! My name is Koushik and I am an engineer at Microsoft. I work on distributed database systems and believe it or not, I use a lot of Python to build tools to so. I believe Python can help us make complicated software systems easier to operate and more performant as a result. When I am not coding I like to play disc golf and try speed-running my favorite video games._
+
+<br clear=all>
 
 ## Advanced Tracking with Kalman Filters and Stone Soup
 
