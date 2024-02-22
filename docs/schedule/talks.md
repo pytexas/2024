@@ -211,7 +211,7 @@ _Hi! My name is Koushik and I am an engineer at Microsoft. I work on distributed
 
 Learn how to implement sophisticated tracking solutions in Python with Kalman filters and the Stone Soup framework. This demo aims to enhance your data analytics and machine learning skills by showcasing an implementation of a tracking algorithm.
 
-** Speaker: Cynthia Ukawu
+**Speaker: Cynthia Ukawu**
 
 ![Cynthia Ukawu Headshot](https://pretalx.com/media/avatars/IMG_735BECFA0EEC-1_39XWmDQ.jpeg){: width="150" align=left}
 
