@@ -1,6 +1,6 @@
 ---
 title: Our Sponsors
-description: PyTexas Conference 2024 Sponsors
+description: PyTexas wouldn't be possible without the support of our sponsors. Be sure to check them out!
 ---
 # PyTexas Conference 2024 Sponsors
 

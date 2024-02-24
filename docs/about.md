@@ -1,4 +1,8 @@
-# About PyTexas
+---
+title: About the PyTexas Conference
+description: Founded in 2007, the PyTexas Conference is the annual, regional gathering for the Python community in Texas. 
+---
+# About the PyTexas Conference
 
 ## What is PyTexas?
 

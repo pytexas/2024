@@ -1,3 +1,8 @@
+---
+title: FAQ
+description: Common questions we get asked about the conference.
+---
+
 # Frequently Asked Questions
 
 ???+ question "What can I do if I can't afford to attend?"

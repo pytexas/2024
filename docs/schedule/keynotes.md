@@ -1,4 +1,7 @@
-# Keynote Speakers
+---
+title: Keynote Speakers
+description: We are proud to have Carol Willing and Lynn Root join us to deliver the 2024 keynotes.
+---
 
 ## Carol Willing
 

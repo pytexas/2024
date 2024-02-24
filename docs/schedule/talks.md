@@ -1,6 +1,6 @@
 ---
 Title: Accepted Talks
-description: Accepted Talks for PyTexas 2024.
+description: We have accepted 18 talks for this years PyTexas. Topics will include AI, Python Features, Security, DevOps, and more!
 ---
 
 # Accepted Talks

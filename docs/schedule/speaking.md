@@ -1,4 +1,7 @@
-# Speaking at PyTexas
+---
+title: Speaking at PyTexas
+description: Our CFP opens October 1, 2023 and closes January 14, 2023
+---
 
 ## Conference format
 PyTexas is a single-track conference with a total attendence of ~250 people.

@@ -1,4 +1,9 @@
-# Attend
+---
+title: Attend
+description: Tickets for PyTexas are available! Get yours today!
+---
+
+# Attend PyTexas 2024
 
 ## Buy Tickets
 

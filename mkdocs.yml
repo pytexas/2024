@@ -8,10 +8,9 @@ extra_css:
   - stylesheets/extra.css
 theme:
   name: material
-  logo: assets/images/favicon.png
   custom_dir: overrides
   locale: en
-  logo: assets/images/pytexas-logo.png
+  logo: assets/images/2024-logo.png
   favicon: assets/images/favicon.png
   features:
     - announce.dismiss
@@ -61,7 +60,10 @@ nav:
 plugins:
   - search
   - social:
-      cards_layout: default
+      cards_layout_options:
+        background_color: "#DAD5B9"
+        color: "#4833C8"
+        
 extra:
   generator: false
   social:

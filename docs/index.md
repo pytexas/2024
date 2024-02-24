@@ -1,6 +1,7 @@
 ---
 title: 2024 PyTexas Conference
 template: home.html
+description: The PyTexas 2024 Conference will be April 19 - 21, 2024 in Austin, Texas. Get your ticket today! We hope to see y'all there!
 ---
 
 # Deep in the 💜 of Texas

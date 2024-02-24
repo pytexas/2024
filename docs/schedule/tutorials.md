@@ -1,6 +1,6 @@
 ---
 title: Tutorials
-description: Tutorials will be held April 19, 2024. Mason Egger will be delivering a tutorial on more advanced Python features and Andy Knight will be delivering a tutorial on pytest. To attend purchase the Tutorials add-on option for your PyTexas Ticket
+description: Tutorials will be held April 19, 2024. Topics include intermediate Python and testing with pytest.
 ---
 # Tutorials
 
