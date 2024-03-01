@@ -111,8 +111,6 @@ Python has a reputation for being very easy to learn. Despite this, experienced 
 
 _Heather Crawford is an Engineering Technical Trainer at Bloomberg and a former university professor. In her roles as a professional educator, she has taught learners at many levels from university students at all levels to both entry-level and experienced software engineers. Heather is a Python lover, who has used it since 2007._
 
-
-
 ## Lessons learned maintaining open source Python projects
 
 I started maintaining open source projects back in 2016 with tox. In 2018, I became a virtualenv maintainer. Today, this has now ballooned to 16 different packages where I'm the primary maintainer (+6 other projects where I help out). On average, these packages get more than 360 million downloads each month.<br><br>In this talk, I will share my experience, and explore how I manage to pull this off while also having a primary job and a family. I will present which techniques I tried, what worked, and what did not. I will also share my views on how one should approach maintaining an open source package to avoid burnout.
@@ -123,15 +121,15 @@ I started maintaining open source projects back in 2016 with tox. In 2018, I bec
 
 <br clear=all>
 
-## What on earth are we packing? A Short History of Package Managers in Python
+## Plagiarism Detection with Semantic Textual Similarity
 
-Let's face it, Python has had a long history of managing packages with mixed results. This talk is about how we got to the place we are today, and what we can expect going forward.
+In this presentation, we'll explore the challenges of plagiarism detection, delving into Natural Language Processing (NLP) models and Semantic Textual Similarity. The discussion is supported by Python examples as we navigate the complexities of detecting both direct and paraphrased plagiarism, also mentioning the challenges posed by AI-generated content. Get ready for an insightful conversation on plagiarism detection methods.
 
-**Speaker: Quazi Nafiul Islam**
+**Speaker: Priscilla Parodi**
 
-![Quazi Nafiul Islam Headshot](https://pretalx.com/media/avatars/Ne-cUWJ6_400x400_EhPKNRI.jpg){: width="150" align=left}
+![Priscilla Parodi Headshot](https://pretalx.com/media/avatars/unnamed_pgxPuko.jpg){: width="150" align=left}
 
-_Nafiul Islam is a Software Engineer, Speaker and Author. With more than a decade of development experience, Nafiul loves talking about developer experience and how to make it better. Nafiul currently works at Sonar as the Developer Advocate for Python. Previously, he worked at JetBrains and Microsoft._
+_Priscilla's interest in Information Technology began during her childhood when she received her first certificate in the field. Since then, she has never stopped learning and has worked in a variety of user-facing roles, including project management, solutions architecture, and developer relations. Throughout her career, Priscilla has collaborated closely with diverse organizations across various industries and regions, has co-authored a book and presented at both technical and business conferences. Today, she represents Elastic in the Americas, engaging with developers, understanding their needs, and planning and managing content and programs to enhance their experience._
 
 <br clear=all>
 
@@ -144,8 +142,6 @@ As Bloomberg's infrastructure grows and evolves, the tools we use to manage it a
 ![Oliver Rew](https://pretalx.com/media/avatars/12968411_S9lgSP6.jpg){: width="150" align=left}
 
 _As a software engineer and a lifelong tinkerer/maker, I have a deep-rooted passion for building, fixing, and breaking things. I recently earned a Masters in Electrical and Computer Engineering, and have gained experience working at both small startups and large companies. I thrive on fixing hard bugs and diving deep into challenging problems.<br><br>Beyond my professional work, I'm also involved in an exciting Cubesat project at Portland State University. When I'm not immersed in technology, I enjoy outdoor activities such as biking, rock-climbing, and spending quality time with my dog, Bruce._
-
-
 
 ## Iterate, Iterate, Iterate!
 
