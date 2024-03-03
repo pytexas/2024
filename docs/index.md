@@ -27,7 +27,7 @@ and availability.
 
     ---
 
-    Early bird tickets for PyTexas 2024 are now on sale!
+    Tickets for PyTexas 2024 are now on sale and going fast! Get yours today!
 
     [:octicons-arrow-right-24: Purchase Tickets](https://pretix.eu/pytexas/2024/)
 
@@ -35,7 +35,7 @@ and availability.
 
     ---
 
-    Our [Call for Proposals (CFP)](https://pretalx.com/pytexas-2024/) has closed! Check back later for our conference schedule.
+    Our [Talks](/schedule/talks) and [Tutorial](/schedule/tutorials) lists have been published! Detailed schedule to be published soon.
 
 -   :fontawesome-solid-scale-balanced:{ .lg .middle} __Code of Conduct__
 

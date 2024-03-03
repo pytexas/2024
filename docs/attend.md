@@ -56,14 +56,9 @@ To name a few....
 
 ## Parking
 
-While at PyTexas you may park in the Austin Public Library parking garage while space is available. **This is a public
-parking garage and you will have to pay. You can find the rates [here](https://library.austintexas.gov/central/parking).
-** Just tell the parking attendant that you are here for the event.
+While at PyTexas you may park in the Austin Public Library parking garage while space is available. **This is a public parking garage and you will have to pay. You can find the rates [here](https://library.austintexas.gov/central/parking).** 
 
-The event will be starting before the library is open. **Be sure to use the South Elevator or stairs to Cesar Chavez to
-access the venue.** See the map below for directions.
-
-![Parking map of APL](/assets/images/library-parking.png)
+The event will be starting before the library is open. **Be sure to use the South Elevator or stairs to Cesar Chavez to access the venue.** 
 
 ### Other Parking Options
 
@@ -74,6 +69,8 @@ If the parking garage is full, there are other parking options nearby.
 * [Violet Crown parking garage](https://www.parkme.com/lot/26607/amli-on-2nd-parking-austin-tx)
 * Street parking
 
+**[Parking Options Map](/assets/docs/downtownparking.pdf)**
+
 ## 2024 Health and Safety Guidelines
 
 Our attendees' health and safety remain our top priority as we continue to monitor 
@@ -81,11 +78,11 @@ the state of the pandemic and look to venue, local, state, and CDC guidelines to
 make the best and most informed decisions around onsite safety and requirements.
 
 ### Masking and Vaccinations Recommended
-The PyTexas team encourages everyone in attendence to be up to date with their
+The PyTexas team encourages everyone in attendance to be up to date with their
 COVID-19 vaccinations. The team also recommends facial coverings when indoors and 
 unable to social distance.
 
-**Harrassing anyone for their decision regarding masking will be considered
+**Harassing anyone for their decision regarding masking will be considered
 a violation of our [Physical Spaces Code of Conduct](https://github.com/pytexas/code-of-conduct/blob/main/physical-spaces-code-of-conduct.md) and will result in 
 appropriate action.**
 
