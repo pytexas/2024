@@ -8,58 +8,28 @@ description: We have accepted 18 talks for this years PyTexas. Topics will inclu
 These are the talks accepted to PyTexas, listed in no particular order. A full
 schedule will be released close to the start of the conference.
 
-## Building Efficient Containers for Python Applications
+## Advanced Tracking with Kalman Filters and Stone Soup
 
-In recent years, containerization using tools like Docker has become a cornerstone for deploying applications efficiently. This talk focuses on techniques and best practices to build more efficient Docker images for Python in order to generate reproducible and quicker builds while reducing the image sizes at the same time.
+Learn how to implement sophisticated tracking solutions in Python with Kalman filters and the Stone Soup framework. This demo aims to enhance your data analytics and machine learning skills by showcasing an implementation of a tracking algorithm.
 
-**Speaker: Avik Basu**
+**Speaker: Cynthia Ukawu**
 
-![Avik Basu Headshot](https://pretalx.com/media/avatars/SF109285-Edit-Cropped-Web_hPqAZFn.jpg){: width="150" align=left}
+![Cynthia Ukawu Headshot](https://pretalx.com/media/avatars/IMG_735BECFA0EEC-1_39XWmDQ.jpeg){: width="150" align=left}
 
-_Avik is an experienced Data Scientist and Machine Learning Engineer. Currently he leads AIOps at Intuit. He was first introduced to Python in 2013 during his undergrad, and has been his primary language since then. He views writing elegant Python code as an art, blending creativity with engineering precision. Presently, he leads the Machine Learning efforts for AIOps at Intuit._
-
-<br clear=all>
-
-## PySecOps
-
-In today's interconnected world, securing web applications is more important than ever. This talk will explore the realm of web security vulnerabilities prevalent in Python Django applications and discuss effective DevSecOps practices to mitigate them.
-
-**Speakers: Soundharya Khanapur, Shivani Shetty**
-
-![Soundharya Khanapur Headshot](https://pretalx.com/media/avatars/image1_otEpLOA.jpg){: width="150" align=left}
-
-_I am a Masters student at NC State University and an ex-Software Engineer at Mercedes-Benz Research & Development India. My true passion lies in leveraging data-driven technology to bring about innovative solutions. During my leisure hours, you can often find me engaging in sports activities, embarking on explorations of new places, or immersing myself in the creation of entertaining software programs._
-<br clear=all>
-
-![Shivani Shetty Headshot](https://pretalx.com/media/avatars/Google-Inclusion-Lounge-2420_1_jS0FSdG.jpg){: width="150" align=left}
-
-_Hello! I'm Shivani Shetty, a cybersecurity enthusiast driven by an unyielding passion for securing the digital realm. With a solid foundation in Risk Management, Incidence Response and Network Security, I'm embarking on a mission to make cyberspace safer for everyone. My goal? To leverage my experience, insights and hunger for continuous improvement to revolutionize the cybersecurity landscape._
+_I'm a backend software engineer for a tech company in Washington, DC._
 
 <br clear=all>
 
-## System Design on Easy Mode
+## Always Use Sets!
 
-You know those system design questions you get when interviewing for senior or staff eng roles? I love them. And while I won't solve them all for you, I will teach you an easy way to solve a large class of them.
+In this talk, we'll show how to use sets to improve the performance and clarity of our code. We'll even show non-set-like cases that gain enough performance by leveraging sets to make this approach worth some amount of extra complexity.
 
-**Speaker: Loren Sands-Ramshaw**
+**Speaker: Andy Fudinger**
 
-![](https://pretalx.com/media/avatars/loren-ivy-512-square_j0a5xwI.png){: width="150" align=left}
+![Andy Fundinger Headshot](https://pretalx.com/media/avatars/Portrait_KFnkOSo.jpg){: width="150" align=left}
 
-_Loren is a developer relations engineer at Temporal. Previously, they worked on the language runtime team, wrote a book on GraphQL, and did consulting, startups, and open source._
+_Andy Fundinger is a senior engineer at Bloomberg, where he develops Python applications in the Data Gateway Platform team and supports Python developers throughout the firm through the company's Python Guild. Andy has spoken several times at PyGotham, as well as other conferences such as QCon, PyCaribbean, and EuroPython.<br><br>In the past, Andy has worked on private equity and credit risk applications, web services, and virtual worlds. Andy holds a master's degree in engineering from Stevens Institute of Technology._
 
-<br clear=all>
-
-## Oh the (Methods) You Can (Make): By Dunder Seuss
-
-You can make many methods <br>Over 100 to be exact <br>That start with two underscores <br>What do you think of that?<br><br>The runtime, it calls these <br>At points A or B <br>To do special magic <br>At runtime, you see.<br><br>You may have seen `__getattr__` or `__init__` <br><br>But `__rfloordiv__`? What's the point of it?<br><br>Come take a quick tour, your mother won't mind <br>And hear a talk that's one-of-a-kind <br>About how Python uses them under-the-hood <br>And how _you_ can use them to write code that's real good
-
-**Speaker: Joshua Cannon**
-
-![Joshua Cannon Headshot](https://pretalx.com/media/avatars/87388c2faa3c4d423c5dd9e436028e4f_lxsOG28.jpg){: width="150" align=left}
-
-_Howdy y'all! Sometimes I'm a Build Engineer and talk your ear off about tools and developer experience. Sometimes I go by "Dunder Seuss" and perform "edutainment" about Python itself. But mostly I'm just here to have fun and enjoy the company of others._
-
-<br clear=all>
 
 ## Anarchy to Order - Organizing assorted data with Python and LLMs
 
@@ -73,15 +43,15 @@ _Mobile Developer turned Pythonista, Jason Koo is a Developer Advocate Manager a
 
 <br clear=all>
 
-## Sanely working with Legacy Code
+## Building Efficient Containers for Python Applications
 
-For many developers, they will inevitably have to work with legacy code at some point in their careers. It requires a different set of skills to navigate these codebases as opposed to greenfield code where you start with a clean slate. Join me in exploring techniques to approach legacy code including how to improve documentation, increase testing coverage, refactoring code into smaller more testable units and techniques when you lack time to add tests.
+In recent years, containerization using tools like Docker has become a cornerstone for deploying applications efficiently. This talk focuses on techniques and best practices to build more efficient Docker images for Python in order to generate reproducible and quicker builds while reducing the image sizes at the same time.
 
-**Speaker: Joe Cabrera**
+**Speaker: Avik Basu**
 
-![Joe Cabrera Headshot](https://pretalx.com/media/avatars/joe_cabrera_3tSYtbP.jpeg){: width="150" align=left}
+![Avik Basu Headshot](https://pretalx.com/media/avatars/SF109285-Edit-Cropped-Web_hPqAZFn.jpg){: width="150" align=left}
 
-_I am a software engineer with +10 years of professional experience building scalable and distributed systems for companies. I am also a subject matter expert in Information Retrieval and Personalized Search. I have spoken at several Python conferences, helped to organize a conference and am involved in the Python open source community._
+_Avik is an experienced Data Scientist and Machine Learning Engineer. Currently he leads AIOps at Intuit. He was first introduced to Python in 2013 during his undergrad, and has been his primary language since then. He views writing elegant Python code as an art, blending creativity with engineering precision. Presently, he leads the Machine Learning efforts for AIOps at Intuit._
 
 <br clear=all>
 
@@ -94,42 +64,6 @@ In the ever-evolving landscape of software development, effective integration te
 ![Sameer Shukla Headshot](https://pretalx.com/media/avatars/Sam-Image_1s0uxrq.jpeg){: width="150" align=left}
 
 _I'm Sameer Shukla, a dedicated engineer with a rich background spanning 14 years in software design and development. Beyond my role as an engineer, I am an author and researcher. I find joy in continually learning and sharing insights about cutting-edge tools and technologies through my contributions to diverse online learning platforms and esteemed international journals._
-
-<br clear=all>
-
-## Voice Computing with Python in Jupyter Notebooks
-
-Jupyter Notebook is a popular platform for writing literate programming documents that contain computer code and its output interleaved with prose that describes the code and the output. Recently, it has become possible to use one's voice to interact with Jupyter notebooks. This capability opens access to those with impaired use of their hands. Voice computing also increases the productivity of workers who are tired of typing and increases the productivity of those workers who speak faster than they can type. I split voice computing into three activities: speech-to-text, speech-to-command, and speech-to-code. Several automated speech recognition software packages operate in Jupyter notebooks and support the three activities to a certain degree. I will provide examples of all three activities as they pertain to applications of Python to our research on the molecular structures of proteins and nucleic acids important in medicine. I have developed and shared several software tools at MooersLab on GitHub and Codeberg that facilitate using existing voice computing software in Jupyter.
-
-**Speaker: Blaine Mooers**
-
-## _Python_ Code vs. _Pythonic_ Code: What Experienced Developers Find Challenging About Learning Python
-
-Python has a reputation for being very easy to learn. Despite this, experienced developers often struggle with working as effectively with Python (e.g., writing Pythonic code) as they are with other programming languages with which they are more familiar. This talk will leverage the experiences of a professional trainer to demystify this dichotomy with the goal of understanding the motivating reasons for it, and making suggestions on how to help developers new to Python move quickly from writing _Python_ code to writing _Pythonic_ code.
-
-**Speaker: Heather Crawford**
-
-_Heather Crawford is an Engineering Technical Trainer at Bloomberg and a former university professor. In her roles as a professional educator, she has taught learners at many levels from university students at all levels to both entry-level and experienced software engineers. Heather is a Python lover, who has used it since 2007._
-
-## Lessons learned maintaining open source Python projects
-
-I started maintaining open source projects back in 2016 with tox. In 2018, I became a virtualenv maintainer. Today, this has now ballooned to 16 different packages where I'm the primary maintainer (+6 other projects where I help out). On average, these packages get more than 360 million downloads each month.<br><br>In this talk, I will share my experience, and explore how I manage to pull this off while also having a primary job and a family. I will present which techniques I tried, what worked, and what did not. I will also share my views on how one should approach maintaining an open source package to avoid burnout.
-
-**Speaker: Bernat Gabor**
-
-![Bernat Gabor Headshot](https://pretalx.com/media/avatars/690238_T9NMiAW.png){: width="150" align=left}
-
-<br clear=all>
-
-## Plagiarism Detection with Semantic Textual Similarity
-
-In this presentation, we'll explore the challenges of plagiarism detection, delving into Natural Language Processing (NLP) models and Semantic Textual Similarity. The discussion is supported by Python examples as we navigate the complexities of detecting both direct and paraphrased plagiarism, also mentioning the challenges posed by AI-generated content. Get ready for an insightful conversation on plagiarism detection methods.
-
-**Speaker: Priscilla Parodi**
-
-![Priscilla Parodi Headshot](https://pretalx.com/media/avatars/unnamed_pgxPuko.jpg){: width="150" align=left}
-
-_Priscilla's interest in Information Technology began during her childhood when she received her first certificate in the field. Since then, she has never stopped learning and has worked in a variety of user-facing roles, including project management, solutions architecture, and developer relations. Throughout her career, Priscilla has collaborated closely with diverse organizations across various industries and regions, has co-authored a book and presented at both technical and business conferences. Today, she represents Elastic in the Americas, engaging with developers, understanding their needs, and planning and managing content and programs to enhance their experience._
 
 <br clear=all>
 
@@ -155,15 +89,37 @@ _Moshe has been involved in the Linux community since 1998, helping in Linux "in
 
 <br clear=all>
 
-## Always Use Sets!
+## Lessons learned maintaining open source Python projects
 
-In this talk, we'll show how to use sets to improve the performance and clarity of our code. We'll even show non-set-like cases that gain enough performance by leveraging sets to make this approach worth some amount of extra complexity.
+I started maintaining open source projects back in 2016 with tox. In 2018, I became a virtualenv maintainer. Today, this has now ballooned to 16 different packages where I'm the primary maintainer (+6 other projects where I help out). On average, these packages get more than 360 million downloads each month.<br><br>In this talk, I will share my experience, and explore how I manage to pull this off while also having a primary job and a family. I will present which techniques I tried, what worked, and what did not. I will also share my views on how one should approach maintaining an open source package to avoid burnout.
 
-**Speaker: Andy Fudinger**
+**Speaker: Bernat Gabor**
 
-![Andy Fundinger Headshot](https://pretalx.com/media/avatars/Portrait_KFnkOSo.jpg){: width="150" align=left}
+![Bernat Gabor Headshot](https://pretalx.com/media/avatars/690238_T9NMiAW.png){: width="150" align=left}
 
-_Andy Fundinger is a senior engineer at Bloomberg, where he develops Python applications in the Data Gateway Platform team and supports Python developers throughout the firm through the company's Python Guild. Andy has spoken several times at PyGotham, as well as other conferences such as QCon, PyCaribbean, and EuroPython.<br><br>In the past, Andy has worked on private equity and credit risk applications, web services, and virtual worlds. Andy holds a master's degree in engineering from Stevens Institute of Technology._
+<br clear=all>
+
+## Oh the (Methods) You Can (Make): By Dunder Seuss
+
+You can make many methods <br>Over 100 to be exact <br>That start with two underscores <br>What do you think of that?<br><br>The runtime, it calls these <br>At points A or B <br>To do special magic <br>At runtime, you see.<br><br>You may have seen `__getattr__` or `__init__` <br><br>But `__rfloordiv__`? What's the point of it?<br><br>Come take a quick tour, your mother won't mind <br>And hear a talk that's one-of-a-kind <br>About how Python uses them under-the-hood <br>And how _you_ can use them to write code that's real good
+
+**Speaker: Joshua Cannon**
+
+![Joshua Cannon Headshot](https://pretalx.com/media/avatars/87388c2faa3c4d423c5dd9e436028e4f_lxsOG28.jpg){: width="150" align=left}
+
+_Howdy y'all! Sometimes I'm a Build Engineer and talk your ear off about tools and developer experience. Sometimes I go by "Dunder Seuss" and perform "edutainment" about Python itself. But mostly I'm just here to have fun and enjoy the company of others._
+
+<br clear=all>
+
+## Plagiarism Detection with Semantic Textual Similarity
+
+In this presentation, we'll explore the challenges of plagiarism detection, delving into Natural Language Processing (NLP) models and Semantic Textual Similarity. The discussion is supported by Python examples as we navigate the complexities of detecting both direct and paraphrased plagiarism, also mentioning the challenges posed by AI-generated content. Get ready for an insightful conversation on plagiarism detection methods.
+
+**Speaker: Priscilla Parodi**
+
+![Priscilla Parodi Headshot](https://pretalx.com/media/avatars/unnamed_pgxPuko.jpg){: width="150" align=left}
+
+_Priscilla's interest in Information Technology began during her childhood when she received her first certificate in the field. Since then, she has never stopped learning and has worked in a variety of user-facing roles, including project management, solutions architecture, and developer relations. Throughout her career, Priscilla has collaborated closely with diverse organizations across various industries and regions, has co-authored a book and presented at both technical and business conferences. Today, she represents Elastic in the Americas, engaging with developers, understanding their needs, and planning and managing content and programs to enhance their experience._
 
 <br clear=all>
 
@@ -179,17 +135,31 @@ _Father of two boys. Test Automation Engineer. Primarily fluent in Python, but c
 
 <br clear=all>
 
-## Working with Audio in Python (feat. Pedalboard)
+## PySecOps
 
-Python can do (nearly) anything, but using Python to work with audio has always been a complicated and messy affair. In this talk, we'll be going through how digital audio works, how Python can be used to play with audio data, and how a new library - Pedalboard - can help. Pedalboard is a simple, fast, and performant library for doing common audio tasks in Python, including applying effects, using VSTs and audio plugins, and encoding/decoding various audio formats.
+In today's interconnected world, securing web applications is more important than ever. This talk will explore the realm of web security vulnerabilities prevalent in Python Django applications and discuss effective DevSecOps practices to mitigate them.
 
-**Speaker: Peter Sobot**
+**Speakers: Soundharya Khanapur, Shivani Shetty**
 
-![Peter Sobot Headshot](https://pretalx.com/media/avatars/2021-05-18_guOGvNc.PNG){: width="150" align=left}
+![Soundharya Khanapur Headshot](https://pretalx.com/media/avatars/image1_otEpLOA.jpg){: width="150" align=left}
 
-_Peter is a Staff Machine Learning Engineer at Spotify in New York, where he helps lead their Audio Intelligence Lab - a machine learning research lab dedicated to pushing the state of the art in audio-based machine learning. He's secretly Canadian (howdy neighbour!) and when not hacking on audio software, he plays drums and bass in a handful of bands._
+_I am a Masters student at NC State University and an ex-Software Engineer at Mercedes-Benz Research & Development India. My true passion lies in leveraging data-driven technology to bring about innovative solutions. During my leisure hours, you can often find me engaging in sports activities, embarking on explorations of new places, or immersing myself in the creation of entertaining software programs._
+<br clear=all>
+
+![Shivani Shetty Headshot](https://pretalx.com/media/avatars/Google-Inclusion-Lounge-2420_1_jS0FSdG.jpg){: width="150" align=left}
+
+_Hello! I'm Shivani Shetty, a cybersecurity enthusiast driven by an unyielding passion for securing the digital realm. With a solid foundation in Risk Management, Incidence Response and Network Security, I'm embarking on a mission to make cyberspace safer for everyone. My goal? To leverage my experience, insights and hunger for continuous improvement to revolutionize the cybersecurity landscape._
 
 <br clear=all>
+
+## _Python_ Code vs. _Pythonic_ Code: What Experienced Developers Find Challenging About Learning Python
+
+Python has a reputation for being very easy to learn. Despite this, experienced developers often struggle with working as effectively with Python (e.g., writing Pythonic code) as they are with other programming languages with which they are more familiar. This talk will leverage the experiences of a professional trainer to demystify this dichotomy with the goal of understanding the motivating reasons for it, and making suggestions on how to help developers new to Python move quickly from writing _Python_ code to writing _Pythonic_ code.
+
+**Speaker: Heather Crawford**
+
+_Heather Crawford is an Engineering Technical Trainer at Bloomberg and a former university professor. In her roles as a professional educator, she has taught learners at many levels from university students at all levels to both entry-level and experienced software engineers. Heather is a Python lover, who has used it since 2007._
+
 
 ## Rest Easy with Jupyrest: Deploy notebooks as web services
 
@@ -203,14 +173,45 @@ _Hi! My name is Koushik and I am an engineer at Microsoft. I work on distributed
 
 <br clear=all>
 
-## Advanced Tracking with Kalman Filters and Stone Soup
+## Sanely working with Legacy Code
 
-Learn how to implement sophisticated tracking solutions in Python with Kalman filters and the Stone Soup framework. This demo aims to enhance your data analytics and machine learning skills by showcasing an implementation of a tracking algorithm.
+For many developers, they will inevitably have to work with legacy code at some point in their careers. It requires a different set of skills to navigate these codebases as opposed to greenfield code where you start with a clean slate. Join me in exploring techniques to approach legacy code including how to improve documentation, increase testing coverage, refactoring code into smaller more testable units and techniques when you lack time to add tests.
 
-**Speaker: Cynthia Ukawu**
+**Speaker: Joe Cabrera**
 
-![Cynthia Ukawu Headshot](https://pretalx.com/media/avatars/IMG_735BECFA0EEC-1_39XWmDQ.jpeg){: width="150" align=left}
+![Joe Cabrera Headshot](https://pretalx.com/media/avatars/joe_cabrera_3tSYtbP.jpeg){: width="150" align=left}
 
-_I'm a backend software engineer for a tech company in Washington, DC._
+_I am a software engineer with +10 years of professional experience building scalable and distributed systems for companies. I am also a subject matter expert in Information Retrieval and Personalized Search. I have spoken at several Python conferences, helped to organize a conference and am involved in the Python open source community._
+
+<br clear=all>
+
+## System Design on Easy Mode
+
+You know those system design questions you get when interviewing for senior or staff eng roles? I love them. And while I won't solve them all for you, I will teach you an easy way to solve a large class of them.
+
+**Speaker: Loren Sands-Ramshaw**
+
+![](https://pretalx.com/media/avatars/loren-ivy-512-square_j0a5xwI.png){: width="150" align=left}
+
+_Loren is a developer relations engineer at Temporal. Previously, they worked on the language runtime team, wrote a book on GraphQL, and did consulting, startups, and open source._
+
+<br clear=all>
+
+## Voice Computing with Python in Jupyter Notebooks
+
+Jupyter Notebook is a popular platform for writing literate programming documents that contain computer code and its output interleaved with prose that describes the code and the output. Recently, it has become possible to use one's voice to interact with Jupyter notebooks. This capability opens access to those with impaired use of their hands. Voice computing also increases the productivity of workers who are tired of typing and increases the productivity of those workers who speak faster than they can type. I split voice computing into three activities: speech-to-text, speech-to-command, and speech-to-code. Several automated speech recognition software packages operate in Jupyter notebooks and support the three activities to a certain degree. I will provide examples of all three activities as they pertain to applications of Python to our research on the molecular structures of proteins and nucleic acids important in medicine. I have developed and shared several software tools at MooersLab on GitHub and Codeberg that facilitate using existing voice computing software in Jupyter.
+
+**Speaker: Blaine Mooers**
+
+
+## Working with Audio in Python (feat. Pedalboard)
+
+Python can do (nearly) anything, but using Python to work with audio has always been a complicated and messy affair. In this talk, we'll be going through how digital audio works, how Python can be used to play with audio data, and how a new library - Pedalboard - can help. Pedalboard is a simple, fast, and performant library for doing common audio tasks in Python, including applying effects, using VSTs and audio plugins, and encoding/decoding various audio formats.
+
+**Speaker: Peter Sobot**
+
+![Peter Sobot Headshot](https://pretalx.com/media/avatars/2021-05-18_guOGvNc.PNG){: width="150" align=left}
+
+_Peter is a Staff Machine Learning Engineer at Spotify in New York, where he helps lead their Audio Intelligence Lab - a machine learning research lab dedicated to pushing the state of the art in audio-based machine learning. He's secretly Canadian (howdy neighbour!) and when not hacking on audio software, he plays drums and bass in a handful of bands._
 
 <br clear=all>
