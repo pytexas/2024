@@ -5,6 +5,8 @@ description: A full schedule grid for the event
 
 # Talk Schedule
 
+*You can view the Tutorial schedule [here](../tutorials)*
+
 | Time {: ^ .table } |                                                                              Saturday                                                                              |                                                                            Sunday                                                                            |
 | :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 08:00&nbsp;AM      |                                                                   Registration Opens & Breakfast                                                                   |                                                                Registration Opens & Breakfast                                                                |
