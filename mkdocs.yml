@@ -52,11 +52,10 @@ nav:
     - sponsors/our-sponsors.md
     - sponsors/sponsor-us.md
   - Schedule:
+    - Talk Schedule: schedule/full_schedule.md 
     - Keynote Speakers: schedule/keynotes.md
     - Tutorials: schedule/tutorials.md
     - Talks: schedule/talks.md
-    - Talk Schedule: schedule/full_schedule.md
-
   - FAQ: faq.md
 plugins:
   - search
