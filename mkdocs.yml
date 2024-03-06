@@ -55,6 +55,7 @@ nav:
     - Keynote Speakers: schedule/keynotes.md
     - Tutorials: schedule/tutorials.md
     - Talks: schedule/talks.md
+    - Talk Schedule: schedule/full_schedule.md
 
   - FAQ: faq.md
 plugins:
@@ -63,7 +64,7 @@ plugins:
       cards_layout_options:
         background_color: "#DAD5B9"
         color: "#4833C8"
-        
+
 extra:
   generator: false
   social:
