@@ -9,6 +9,11 @@ description: PyTexas wouldn't be possible without the support of our sponsors. B
 
 <br clear=all>
 
+## Lanyard Sponsors
+[![AppSignal Sponsor Logo](../assets/images/sponsors/appsignal.svg){: width="350" align="left"}](https://www.appsignal.com/)
+
+<br clear=all>
+
 ## Community Sponsors
 
 [![DevIT US Sponsor Logo](../assets/images/sponsors/devitus-square2.png){: width="200" align="left"}](https://devitjobs.com/jobs/python/all/all)
