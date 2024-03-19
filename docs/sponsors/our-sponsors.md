@@ -2,14 +2,19 @@
 title: Our Sponsors
 description: PyTexas wouldn't be possible without the support of our sponsors. Be sure to check them out!
 ---
+
 # PyTexas Conference 2024 Sponsors
 
 ## Gold Sponsors
+
 [![Temporal Technologies Sponsor Logo](../assets/images/sponsors/temporal.png){: width="500" align="left"}](https://temporal.io)
+
+[![Python Software Foundation Sponsor Logo](../assets/images/sponsors/psf.png){: width="500" align="left"}](https://python.org)
 
 <br clear=all>
 
 ## Lanyard Sponsors
+
 [![AppSignal Sponsor Logo](../assets/images/sponsors/appsignal.svg){: width="350" align="left"}](https://www.appsignal.com/)
 
 <br clear=all>
