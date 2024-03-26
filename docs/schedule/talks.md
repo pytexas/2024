@@ -24,7 +24,7 @@ _I'm a backend software engineer for a tech company in Washington, DC._
 
 In this talk, we'll show how to use sets to improve the performance and clarity of our code. We'll even show non-set-like cases that gain enough performance by leveraging sets to make this approach worth some amount of extra complexity.
 
-**Speaker: Andy Fudinger**
+**Speaker: Andy Fundinger**
 
 ![Andy Fundinger Headshot](https://pretalx.com/media/avatars/Portrait_KFnkOSo.jpg){: width="150" align=left}
 
