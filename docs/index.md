@@ -35,7 +35,7 @@ and availability.
 
     ---
 
-    Our [Talks](schedule/talks) and [Tutorial](schedule/tutorials) lists have been published! See the [detailed schedule](schedule/full_schedule/).
+    Our [Talks](schedule/talks) and [Tutorial](schedule/tutorials) lists have been published! See the detailed [Schedule](schedule/full_schedule/).
 
 -   :fontawesome-solid-scale-balanced:{ .lg .middle} __Code of Conduct__
 
