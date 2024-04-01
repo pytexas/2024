@@ -61,7 +61,7 @@ and availability.
     </div>
 </form>
 <small class="text-muted form-text">
-    We'll never share your details. Refer to our <a href="https://www.pytexas.org/privacy/">Privacy Statement</a>.
+    We'll never share your details. Refer to our [Privacy Statement](/about/#privacy-statement).
 </small>
 
 </div>
