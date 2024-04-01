@@ -35,7 +35,7 @@ and availability.
 
     ---
 
-    Our [Talks](/schedule/talks) and [Tutorial](/schedule/tutorials) lists have been published! See the [detailed schedule](/schedule/full_schedule/).
+    Our [Talks](schedule/talks) and [Tutorial](schedule/tutorials) lists have been published! See the detailed [Schedule](schedule/full_schedule/).
 
 -   :fontawesome-solid-scale-balanced:{ .lg .middle} __Code of Conduct__
 
@@ -61,7 +61,7 @@ and availability.
     </div>
 </form>
 <small class="text-muted form-text">
-    We'll never share your details. Refer to our <a href="privacy">Privacy Statement</a>.
+    We'll never share your details. Refer to our [Privacy Statement](about/#privacy-statement).
 </small>
 
 </div>
