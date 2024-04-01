@@ -61,7 +61,7 @@ and availability.
     </div>
 </form>
 <small class="text-muted form-text">
-    We'll never share your details. Refer to our [Privacy Statement](/about/#privacy-statement).
+    We'll never share your details. Refer to our [Privacy Statement](about/#privacy-statement).
 </small>
 
 </div>
