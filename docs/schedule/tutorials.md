@@ -28,7 +28,6 @@ features that make Python _pythonic_. Specifically, you will learn about:
 1. Comprehensions
 1. Dunder Methods & Operator Overloading
 1. Context Managers
-1. Iterators & Generators
 
 This will be a hands on tutorial. All exercises will be distributed as a GitHub
 repository and as Jupyter Notebooks in Google Colab. 
