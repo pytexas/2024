@@ -55,6 +55,7 @@ Conduct. You can find those below:*
 If you believe an individual has violated this Code of Conduct, please contact us via any of the methods below:
 
 * **Call or text:** [512-387-0297](tel:512-387-0297)
+* **Email** [code-of-conduct@pytexas.org](mailto:code-of-conduct@pytexas.org]
 
 _Note: Calls and texts are anonymized._
 
