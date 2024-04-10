@@ -15,11 +15,10 @@ Scroll art is a form of animated ASCII art that beginners can make. Using loops,
 
 **Speaker: Al Sweigart**
 
-![Cynthia Ukawu Headshot](https://i.imgur.com/7vNlokH.png){: width="150" align=left}
+![Al Sweigart Headshot](https://i.imgur.com/7vNlokH.png){: width="150" align=left}
 
 _Al Sweigart is a software developer, artist, Fellow of the Python Software Foundation, and the author of Automate the Boring Stuff with Python and other programming books freely available under the Creative Commons license at [https://inventwithpython.com](https://inventwithpython.com)._
 
-<br clear=all>
 
 ## Advanced Tracking with Kalman Filters and Stone Soup
 
