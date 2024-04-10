@@ -8,6 +8,19 @@ description: We have accepted 18 talks for this years PyTexas. Topics will inclu
 These are the talks accepted to PyTexas, listed in no particular order. A full
 schedule will be released close to the start of the conference.
 
+## 20 GOTO 10: How to Make Scrolling ASCII Art
+
+Scroll art is a form of animated ASCII art that beginners can make. Using loops, print(), and random numbers, you'll learn how to make a surprisingly wide variety of digital art within the constraints of text strings. You'll also learn about the history of ASCII art, computer education, and where to find inspiration for your own digital art.
+
+
+**Speaker: Al Sweigart**
+
+![Cynthia Ukawu Headshot](https://i.imgur.com/7vNlokH.png){: width="150" align=left}
+
+_Al Sweigart is a software developer, artist, Fellow of the Python Software Foundation, and the author of Automate the Boring Stuff with Python and other programming books freely available under the Creative Commons license at [https://inventwithpython.com](https://inventwithpython.com)._
+
+<br clear=all>
+
 ## Advanced Tracking with Kalman Filters and Stone Soup
 
 Learn how to implement sophisticated tracking solutions in Python with Kalman filters and the Stone Soup framework. This demo aims to enhance your data analytics and machine learning skills by showcasing an implementation of a tracking algorithm.
@@ -108,18 +121,6 @@ You can make many methods <br>Over 100 to be exact <br>That start with two under
 ![Joshua Cannon Headshot](https://pretalx.com/media/avatars/87388c2faa3c4d423c5dd9e436028e4f_lxsOG28.jpg){: width="150" align=left}
 
 _Howdy y'all! Sometimes I'm a Build Engineer and talk your ear off about tools and developer experience. Sometimes I go by "Dunder Seuss" and perform "edutainment" about Python itself. But mostly I'm just here to have fun and enjoy the company of others._
-
-<br clear=all>
-
-## Plagiarism Detection with Semantic Textual Similarity
-
-In this presentation, we'll explore the challenges of plagiarism detection, delving into Natural Language Processing (NLP) models and Semantic Textual Similarity. The discussion is supported by Python examples as we navigate the complexities of detecting both direct and paraphrased plagiarism, also mentioning the challenges posed by AI-generated content. Get ready for an insightful conversation on plagiarism detection methods.
-
-**Speaker: Priscilla Parodi**
-
-![Priscilla Parodi Headshot](https://pretalx.com/media/avatars/unnamed_pgxPuko.jpg){: width="150" align=left}
-
-_Priscilla's interest in Information Technology began during her childhood when she received her first certificate in the field. Since then, she has never stopped learning and has worked in a variety of user-facing roles, including project management, solutions architecture, and developer relations. Throughout her career, Priscilla has collaborated closely with diverse organizations across various industries and regions, has co-authored a book and presented at both technical and business conferences. Today, she represents Elastic in the Americas, engaging with developers, understanding their needs, and planning and managing content and programs to enhance their experience._
 
 <br clear=all>
 
