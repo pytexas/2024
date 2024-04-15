@@ -4,6 +4,8 @@ description: Tutorials will be held April 19, 2024. Topics include intermediate 
 ---
 # Tutorials
 
+_Tutorials will be held Friday, April 19, 2024 at the Austin Central Public Library. This is the same venue as the main portion of the conference._
+
 ## Schedule
 
 | Time | Tutorial | Instructor |
