@@ -203,6 +203,11 @@ Jupyter Notebook is a popular platform for writing literate programming document
 
 **Speaker: Blaine Mooers**
 
+![Blaine Mooers Headshot](../../assets/images/blaine_mooers.jpg){: width="150" align=left}
+
+_Blaine Mooers is an associate professor of biochemistry and physiology at the University of Oklahoma Health Sciences. He has been using Python to develop tools to ease the use of structural biology software by his students and other scientists. He has spoken at Jupyter Con and participated in several SciPy Conferences._
+
+<br clear=all>
 
 ## Working with Audio in Python (feat. Pedalboard)
 
