@@ -193,7 +193,7 @@ You know those system design questions you get when interviewing for senior or s
 
 ![](https://pretalx.com/media/avatars/loren-ivy-512-square_j0a5xwI.png){: width="150" align=left}
 
-_Loren is a developer relations engineer at Temporal. Previously, they worked on the language runtime team, wrote a book on GraphQL, and did consulting, startups, and open source._
+_Loren is a author, having written a book on GraphQL, has worked as a consultant at various startups. They also participate in various open-source projects._
 
 <br clear=all>
 
