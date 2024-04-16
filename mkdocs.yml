@@ -47,7 +47,9 @@ markdown_extensions:
 nav:
   - Home: index.md
   - About: about.md
-  - Attend: attend.md
+  - Attend: 
+      - In Person Attendance: attend/index.md
+      - Virtual Attendance: attend/virtual.md
   - Sponsors:
     - sponsors/our-sponsors.md
     - sponsors/sponsor-us.md
