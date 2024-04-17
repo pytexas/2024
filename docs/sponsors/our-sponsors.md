@@ -19,6 +19,12 @@ description: PyTexas wouldn't be possible without the support of our sponsors. B
 
 <br clear=all>
 
+## Doorprize Sponsors
+
+[![Manning Publications Sponsor Logo](../assets/images/sponsors/Manning_logo.png){: width="350" align="left"}](https://www.manning.com/)
+
+<br clear=all>
+
 ## Community Sponsors
 
 [![DevIT US Sponsor Logo](../assets/images/sponsors/devitus-square2.png){: width="200" align="left"}](https://devitjobs.com/jobs/python/all/all)
