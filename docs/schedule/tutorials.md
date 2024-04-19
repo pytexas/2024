@@ -34,6 +34,11 @@ features that make Python _pythonic_. Specifically, you will learn about:
 This will be a hands on tutorial. All exercises will be distributed as a GitHub
 repository and as Jupyter Notebooks in Google Colab. 
 
+#### Course Materials
+
+* [Google Colab Drive](https://drive.google.com/drive/u/0/folders/1GQGgucy2lomEbEXRdxozWiBI9xpqE5DD)
+* [GitHub Repo](https://github.com/MasonEgger-Edu/python-102)
+
 **Prerequisites**
 
 * A laptop you can program on
