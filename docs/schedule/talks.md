@@ -93,6 +93,8 @@ _As a software engineer and a lifelong tinkerer/maker, I have a deep-rooted pass
 
 The iteration protocol and generators are Python's power tools. Properly used, they allow for clearer code that is easier to debug and understand. The talk will cover the iteration protocol itself, generator functions and expressions, the itertools and more_itertools libraries, and how to use them to up your Python level.
 
+[Presentation Handout](https://github.com/dev-skill-up/iterate/blob/trunk/handout.pdf)
+
 **Speaker: Moshe Zadka**
 
 ![Moshe Zadka Headshot](https://pretalx.com/media/avatars/M48A0550_OFvFoAA.jpg){: width="150" align=left}
