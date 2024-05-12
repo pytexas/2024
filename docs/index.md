@@ -27,15 +27,13 @@ and availability.
 
     ---
 
-    Tickets for PyTexas 2024 are now on sale and going fast! Get yours today!
-
-    [:octicons-arrow-right-24: Purchase Tickets](https://pretix.eu/pytexas/2024/)
+    PyTexas has past, join us for [upcoming conferences!](https://pytexas.org/conference)
 
 -   :fontawesome-solid-microphone-lines:{ .lg .middle} __Speak__
 
     ---
 
-    Our [Talks](schedule/talks) and [Tutorial](schedule/tutorials) lists have been published! See the detailed [Schedule](schedule/full_schedule/).
+    PyTexas 2024 [Talks](schedule/talks) have been published to our [YouTube Channel](https://youtube.com/pytexas)! You can also see them on the [Schedule](schedule/full_schedule/) page.
 
 -   :fontawesome-solid-scale-balanced:{ .lg .middle} __Code of Conduct__
 
@@ -47,7 +45,7 @@ and availability.
 
     ---
 
-    We will be returning to the [Austin Central Library](attend/#venue)
+    We loved returning to the [Austin Central Library](attend/#venue).
 
 -   :fontawesome-regular-envelope:{ .lg .middle} __Join Our Mailing List__
 
