@@ -14,6 +14,8 @@ She's also a leader in open science and open-source governance serving on [Quans
 She's driven to make open science accessible through open tools and learning materials.
 She recently served as [Noteable](https://noteable.io)'s VP of Engineering.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rAMLQkY7TZM?si=2LLYPALeihrBrRga" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <br>
 
 ## Lynn Root
@@ -24,3 +26,5 @@ Lynn Root is a Staff Engineer at Spotify and resident FOSS evangelist.
 She is a seasoned speaker on building and maintaining distributed systems, and is currently spearheading governance compliance for Spotify's ML/AI platform.
 Lynn is a global leader of diversity in the Python community, a member of the PyLadies Global Council, and the former Vice Chair of the Python Software Foundation Board of Directors.
 When her hands are not on a keyboard, they are usually holding a bass guitar.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ww2-Cw9qnmE?si=rIUTSTsqarcGTQTN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
