@@ -27,7 +27,7 @@ and availability.
 
     ---
 
-    PyTexas has past, join us for [upcoming conferences!](https://pytexas.org/conference)
+    PyTexas has passed, join us for [upcoming conferences!](https://pytexas.org/conference)
 
 -   :fontawesome-solid-microphone-lines:{ .lg .middle} __Speak__
 
